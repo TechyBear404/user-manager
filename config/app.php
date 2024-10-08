@@ -1,5 +1,6 @@
 <?php
 
+use BladeUIKit\BladeUIKit;
 use Illuminate\Support\Facades\Facade;
 use Illuminate\Support\ServiceProvider;
 
